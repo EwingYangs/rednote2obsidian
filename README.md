@@ -2,7 +2,7 @@
 
 > 把小红书的**收藏、个人帖子、点赞**自动同步进 Obsidian Vault，图文 / 视频 / 标签 / 专辑一并落库。
 
-[English](./README-en.md) · 简体中文 · [官网 rednote.2notion.com](https://rednote.2notion.com)
+[English](./README-en.md) · 简体中文 · [官网 rednote.2notion.com](https://rednote.2obsidian.com)
 
 ![RedNote to Obsidian](./rednote2obsidian.png)
 
