@@ -1,0 +1,34 @@
+RedNote Sync for Obsidian — Proprietary License
+专有软件许可协议
+
+Copyright (c) 2026 自律小嘉同学 (EwingYangs). All Rights Reserved.
+版权所有，保留一切权利。
+
+This software (the "Plugin") is distributed in compiled form only. The source
+code is NOT open source and is NOT included in this distribution.
+本插件仅以编译产物形式分发，源代码不开源，亦不随本分发包提供。
+
+PERMITTED / 允许：
+  - Download and install the Plugin into your own Obsidian vault for personal
+    use, via GitHub Releases or BRAT.
+    下载并安装本插件到你自己的 Obsidian 仓库供个人使用（通过 GitHub Releases 或 BRAT）。
+
+NOT PERMITTED / 禁止：
+  - Redistributing, re-uploading, mirroring, or selling the Plugin or any of its
+    files, in whole or in part.
+    再分发、转载、镜像或销售本插件及其任何文件（整体或部分）。
+  - Reverse engineering, decompiling, deobfuscating, or otherwise attempting to
+    derive the source code.
+    反编译、反混淆、逆向工程或以任何方式还原源代码。
+  - Modifying the Plugin and distributing the modified version.
+    修改本插件并分发修改后的版本。
+  - Circumventing, removing, or disabling the license / authorization-code
+    mechanism, the free-quota limit, or any usage controls.
+    绕过、移除或停用授权码机制、免费额度限制或任何使用控制。
+
+NO WARRANTY / 免责声明:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+本软件按"现状"提供，不附带任何明示或默示的担保。作者不对因使用本软件产生的任何
+索赔、损害或其他责任负责。
