@@ -88,7 +88,7 @@
 
 ## 反馈
 
-使用问题或建议欢迎提 [Issue](https://github.com/EwingYangs/rednote2obsidian/issues)，或访问[官网 rednote.2notion.com](https://rednote.2notion.com)。
+使用问题或建议欢迎提 [Issue](https://github.com/EwingYangs/rednote2obsidian/issues)，或访问[官网 rednote.2obsidian.com](https://rednote.2notion.com)。
 
 ## 许可
 
