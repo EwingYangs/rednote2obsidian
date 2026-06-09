@@ -33,12 +33,12 @@
 ### 方式一：BRAT（推荐，可自动更新）
 
 1. 在 Obsidian 社区插件中安装 **BRAT**（Beta Reviewer's Auto-update Tool）并启用
-2. 命令面板执行 `BRAT: Add a beta plugin`
-3. 仓库地址填入：
+2. 打开 BRAT，选择 **Add Beta plugin**
+3. 输入仓库地址：
    ```
-   EwingYangs/rednote2obsidian
+   https://github.com/EwingYangs/rednote2obsidian
    ```
-4. 安装完成后，在 **设置 → 第三方插件** 中启用 **RedNote Sync**
+4. 安装完成后，在 **Obsidian 设置 → 第三方插件** 中启用 **RedNote Sync**
 
 > BRAT 会跟随 GitHub Release 自动检测并更新到最新版本。
 

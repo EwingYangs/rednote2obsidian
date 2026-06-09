@@ -33,10 +33,10 @@ English · [简体中文](./README.md) · [Website rednote.2notion.com](https://
 ### Option 1 — BRAT (recommended, auto-updates)
 
 1. Install and enable **BRAT** (Beta Reviewer's Auto-update Tool) from Obsidian community plugins
-2. Run `BRAT: Add a beta plugin` from the command palette
-3. Enter the repository:
+2. Open BRAT and choose **Add Beta plugin**
+3. Enter the repository URL:
    ```
-   EwingYangs/rednote2obsidian
+   https://github.com/EwingYangs/rednote2obsidian
    ```
 4. Enable **RedNote Sync** under **Settings → Community plugins**
 
