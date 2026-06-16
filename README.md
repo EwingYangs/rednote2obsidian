@@ -2,7 +2,7 @@
 
 > 把小红书的**收藏、个人帖子、点赞**自动同步进 Obsidian Vault，图文 / 视频 / 标签 / 专辑一并落库。
 
-[English](./README-en.md) · 简体中文 · [官网 rednote.2notion.com](https://rednote.2obsidian.com)
+[English](./README-en.md) · 简体中文 · [官网 rednote.2notion.com](https://rednote.2notion.com)
 
 ![RedNote to Obsidian](./rednote2obsidian.png)
 
@@ -70,7 +70,7 @@
 
 - 免费试用 **100 篇**，无需任何注册即可使用全部功能
 - 累计同步超过 100 篇后，在设置页填写**授权码**即可继续同步
-- 授权码可在设置页「购买授权码」入口或[官网](https://rednote.2obsidian.com)获取，按设备绑定
+- 授权码可在设置页「购买授权码」入口或[官网](https://rednote.2notion.com)获取，按设备绑定
 
 ## 使用须知
 
@@ -88,7 +88,7 @@
 
 ## 反馈
 
-使用问题或建议欢迎提 [Issue](https://github.com/EwingYangs/rednote2obsidian/issues)，或访问[官网 rednote.2obsidian.com](https://rednote.2obsidian.com)。
+使用问题或建议欢迎提 [Issue](https://github.com/EwingYangs/rednote2obsidian/issues)，或访问[官网 rednote.2notion.com](https://rednote.2notion.com)。
 
 ## 许可
 
