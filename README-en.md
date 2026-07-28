@@ -89,6 +89,22 @@ This plugin is intended solely for syncing content **you have the right to acces
 - Synced content is written only to your local Obsidian vault
 - Only the license code and a device identifier are sent to the authorization service for validation (quota & license management)
 
+## Changelog
+
+### v1.2.0 (2026-07-28)
+
+- 📊 **Engagement stats in frontmatter**: like / collect / comment / share counts as plain numbers (`"1.2万"` parsed to `12000`) for Dataview / Bases queries
+- 💬 **Comment sync**: new toggle syncs top 10 comments (up to 3 replies each) as a collapsible callout with author / likes / date
+- 📷 **Image-to-text**: vision model OCR for up to the first 10 images per note; video notes skip cover recognition automatically
+- 🎙 **Video transcript**: speech-to-text via Alibaba Bailian paraformer / Volcano Engine / Tencent Cloud ASR / OpenAI-compatible (whisper, SenseVoice)
+- ✨ **AI transcript cleanup**: auto paragraphing, punctuation fixes, filler-word removal, plus a key-point summary
+- ⚙️ **Unified AI model settings**: all AI credentials and models consolidated into one section, with one-click test buttons for text / vision / transcription
+- 🐛 Fixes: adapted to Xiaohongshu's new video stream codec grouping (video notes losing their video); settings page now refreshes immediately after login
+
+### v1.1.x
+
+- Album whitelist incremental sync, batch sync fixes, video download toggle, and more (see past releases)
+
 ## Feedback
 
 Questions or suggestions? Open an [Issue](https://github.com/EwingYangs/rednote2obsidian/issues) or visit the [website rednote.2notion.com](https://rednote.2notion.com).
