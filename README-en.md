@@ -21,6 +21,11 @@ English · [简体中文](./README.md) · [Website rednote.2notion.com](https://
 | 📂 Album folders | Bookmarks split into per-album subfolders, with album whitelist |
 | ⏱ Scheduled sync | Background incremental sync on an interval |
 | 🌐 CN / Global | Auto-detects both xiaohongshu.com and rednote.com |
+| 📊 Engagement stats | Like / collect / comment / share counts written into frontmatter for Dataview / Bases queries |
+| 💬 Comment sync | Optionally sync top 10 comments (up to 3 replies each) as a collapsible callout |
+| 🤖 AI classify | Auto-file notes into custom categories via any OpenAI-compatible model |
+| 📷 Image-to-text | Vision model OCR turns image-card content into searchable text |
+| 🎙 Video transcript | Speech-to-text via Alibaba Bailian / Volcano Engine / Tencent Cloud / OpenAI-compatible providers, with optional AI cleanup and key-point summary |
 
 ## Preview
 
