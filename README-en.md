@@ -71,8 +71,8 @@ See the [User Guide](./USER_GUIDE.md) for the full list of settings.
 
 ## Free quota & license code
 
-- **100 notes** free trial — all features available, no signup required
-- After 100 synced notes, enter a **license code** in settings to keep syncing
+- **10 notes** free trial — all features available, no signup required
+- After 10 synced notes, enter a **license code** in settings to keep syncing
 - License codes are available via the "Buy license" entry in settings or the [website](https://rednote.2notion.com), bound per device
 
 ## Acceptable use
