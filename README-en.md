@@ -91,6 +91,15 @@ This plugin is intended solely for syncing content **you have the right to acces
 
 ## Changelog
 
+### v1.2.3 (2026-08-06)
+
+- ⏱ **Per-run cap for album incremental sync**: notes per run now follow the "batch size" setting (5–10); large backlogs are drained oldest-first across cycles instead of all at once, keeping run time predictable with AI features enabled
+- 💬 Progress notice shows remaining backlog ("N added, M remaining for next cycle")
+
+### v1.2.1 / v1.2.2
+
+- Free trial quota adjusted to 10 posts; fixed a crash when logging in from Obsidian 1.13's detached settings window
+
 ### v1.2.0 (2026-07-28)
 
 - 📊 **Engagement stats in frontmatter**: like / collect / comment / share counts as plain numbers (`"1.2万"` parsed to `12000`) for Dataview / Bases queries
